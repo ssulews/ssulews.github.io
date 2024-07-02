@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #191970;
     color: white;
     padding: 1rem 0;
     text-align: center;
@@ -41,7 +41,7 @@ section {
 }
 
 footer {
-    background-color: #333;
+    background-color: #191970;
     color: white;
     text-align: center;
     padding: 1rem 0;
