@@ -45,9 +45,9 @@ footer {
     color: white;
     text-align: center;
     padding: 1rem 0;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
+    position: relative;
+    height: 200px;
+    margin-top: -200px;
 }
 
 .social-links {
